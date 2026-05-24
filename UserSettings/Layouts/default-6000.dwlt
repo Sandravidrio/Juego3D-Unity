@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 631.2
     height: 460.8
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 226}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 17}
@@ -652,15 +652,13 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 62498
+    - m_Data: 62566
     m_LastClickedID:
-      m_Data: 62498
+      m_Data: 62566
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 62494
-    - m_Data: 62500
-    - m_Data: 62540
-    - m_Data: 66552
+    - m_Data: 62514
+    - m_Data: 62518
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -721,8 +719,8 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 63574
-    m_LastClickedInstanceID: 63574
+    - m_Data: 62568
+    m_LastClickedInstanceID: 62568
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
@@ -847,54 +845,16 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 63574
+      - m_Data: 62568
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -72286
-      - m_Data: -70026
-      - m_Data: -67212
-      - m_Data: -66342
-      - m_Data: -66184
-      - m_Data: -65634
-      - m_Data: -65014
-      - m_Data: -64734
-      - m_Data: -64388
-      - m_Data: -64002
-      - m_Data: -63128
-      - m_Data: -62914
-      - m_Data: -62774
-      - m_Data: -62430
-      - m_Data: -62292
-      - m_Data: -61832
-      - m_Data: -61588
-      - m_Data: -61436
-      - m_Data: -60704
-      - m_Data: -57268
-      - m_Data: -57120
-      - m_Data: -55674
-      - m_Data: -55496
-      - m_Data: -54540
-      - m_Data: -54362
-      - m_Data: -50218
-      - m_Data: -50070
-      - m_Data: -49924
-      - m_Data: -49788
-      - m_Data: -49642
-      - m_Data: -49290
-      - m_Data: -49138
-      - m_Data: -48896
-      - m_Data: -48756
-      - m_Data: -48616
-      - m_Data: -48452
-      - m_Data: -48306
-      - m_Data: -48168
-      - m_Data: -47884
-      - m_Data: -46952
-      - m_Data: 64174
-      - m_Data: 65260
-      - m_Data: 65284
-      - m_Data: 67602
+      - m_Data: -51026
+      - m_Data: -49578
+      - m_Data: -49576
+      - m_Data: -47940
+      - m_Data: -47008
+      - m_Data: 62994
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
