@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -633,7 +633,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -643,7 +643,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\tomra\Desktop\Juego3D
   m_LockTracker:
@@ -652,14 +652,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 62464
+    - m_Data: 62500
     m_LastClickedID:
-      m_Data: 62464
+      m_Data: 62500
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 62464
-    - m_Data: 62508
-    - m_Data: 63190
+    - m_Data: 62494
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -720,9 +718,9 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 62540
-    m_LastClickedInstanceID: 62540
-    m_HadKeyboardFocusLastEvent: 1
+    - m_Data: 62590
+    m_LastClickedInstanceID: 62590
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -798,7 +796,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 212
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -846,12 +844,13 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 62540
+      - m_Data: 62590
       m_LastClickedID:
-        m_Data: 62540
+        m_Data: 62590
       m_ExpandedIDs:
-      - m_Data: -47832
-      - m_Data: -46898
+      - m_Data: -47884
+      - m_Data: -46952
+      - m_Data: 62580
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
