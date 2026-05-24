@@ -1,9 +1,10 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MovimientoJugador : MonoBehaviour
 {
-    public float velocidad = 5f;
-    public float aumento = 0.1f;
+    public float velocidad = 8f;
+    public float aumento = 0.2f;
 
     void Update()
     {
@@ -15,5 +16,10 @@ public class MovimientoJugador : MonoBehaviour
         velocidad += aumento * Time.deltaTime;
 
         transform.Translate(movimiento * velocidad * Time.deltaTime);
+
+        if (transform.position.y < -5)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
 }
